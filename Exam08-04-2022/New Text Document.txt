@@ -1,0 +1,6 @@
+MLR
+https://medium.com/swlh/multi-linear-regression-using-python-44bd0d10082d
+https://colab.research.google.com/github/rafiag/DTI2020/blob/main/002a_Multi_Linear_Regression_(EN).ipynb#scrollTo=DsBLAjmkkeKQ
+
+MDS
+https://stackabuse.com/guide-to-multidimensional-scaling-in-python-with-scikit-learn/
